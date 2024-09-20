@@ -77,3 +77,5 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+og_image: /assets/img/image1.webp
